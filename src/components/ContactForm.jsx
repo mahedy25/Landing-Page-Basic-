@@ -3,7 +3,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';  // Import CSS
 
 
-const ContactForm = () => {
+const Contactform = () => {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -77,5 +77,5 @@ const ContactForm = () => {
   );
 };
 
-export default ContactForm;
+export default Contactform;
 
