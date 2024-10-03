@@ -5,8 +5,9 @@ import About from './components/About'
 import Services from './components/Services'
 import Testimonials from './components/Testimonials'
 import Contact from './components/Contact'
-import Contactform from './components/contactform'
 import Footer from './components/Footer'
+import Contactform from './components/ContactForm'
+
 
 
 
